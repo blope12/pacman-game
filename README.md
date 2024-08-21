@@ -16,3 +16,13 @@ To install the necessary dependencies, run:
 ```bash
 npm install
 npm start
+
+
+
+
+
+
+## app
+ 
+![Screenshot 2024-08-22 005128](https://github.com/user-attachments/assets/42a4dfda-4428-4941-9e77-6b5c074f7af5)
+
